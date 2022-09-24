@@ -1,0 +1,1 @@
+start http://www.docin.com/search.do?searchcat=6&searchType_banner=p&nkey=%1

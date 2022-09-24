@@ -1,0 +1,1 @@
+start https://gitee.com/search?utf8=%E2%9C%93&q=%1&type=

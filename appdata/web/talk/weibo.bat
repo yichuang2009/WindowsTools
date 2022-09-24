@@ -1,0 +1,1 @@
+start http://s.weibo.com/weibo/%1?frm=opensearch

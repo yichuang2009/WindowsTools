@@ -1,0 +1,1 @@
+start http://www.zhihu.com/search?q=%1

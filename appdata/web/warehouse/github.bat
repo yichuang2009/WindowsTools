@@ -1,0 +1,1 @@
+start https://github.com/search?q=%1&ref=opensearch

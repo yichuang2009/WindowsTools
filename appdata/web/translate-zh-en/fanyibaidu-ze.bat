@@ -1,0 +1,1 @@
+start https://fanyi.baidu.com/translate#zh/en/%1

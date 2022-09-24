@@ -1,0 +1,1 @@
+start http://yun.itheima.com/search?keys=%1

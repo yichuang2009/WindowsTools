@@ -1,0 +1,1 @@
+start https://www.sogou.com/web?ie={inputEncoding}&query=%1

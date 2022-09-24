@@ -1,0 +1,1 @@
+start https://translate.google.cn/?source=osdd#en-US|zh-CN|%1

@@ -1,0 +1,1 @@
+start http://www.xuetangx.com/courses/search?query=%1

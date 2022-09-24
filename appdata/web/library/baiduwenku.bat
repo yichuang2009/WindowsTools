@@ -1,0 +1,1 @@
+start https://wenku.baidu.com/search?word=%1
